@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 72
+ETag: W/"48-TkubmQyV1y6P0P+Kk28W9cIIpqo"
+Date: Mon, 15 Jun 2026 01:30:45 GMT
+Connection: close
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
